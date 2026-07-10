@@ -1,9 +1,9 @@
 import React from "react";
 
-import i3 from "../assets/SignatureDishes/i4.png";
-import i4 from "../assets/SignatureDishes/i5.png";
-import i5 from "../assets/SignatureDishes/i6.png";
-import i6 from "../assets/SignatureDishes/i7.png";
+import i3 from "../assets/signatureDishes/i4.png";
+import i4 from "../assets/signatureDishes/i5.png";
+import i5 from "../assets/signatureDishes/i6.png";
+import i6 from "../assets/signatureDishes/i7.png";
 import { useNavigate } from "react-router";
 
 function MenuPreview() {
