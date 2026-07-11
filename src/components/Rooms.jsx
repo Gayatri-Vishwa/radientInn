@@ -7,9 +7,9 @@ import "swiper/css";
 import "swiper/css/effect-coverflow";
 import "swiper/css/navigation";
 
-import i1 from "../assets/signatureDishes/i1.png";
-import i2 from "../assets/signatureDishes/i2.png";
-import i3 from "../assets/signatureDishes/i3.png";
+// import i1 from "../assets/signatureDishes/i1.png";
+// import i2 from "../assets/signatureDishes/i2.png";
+// import i3 from "../assets/signatureDishes/i3.png";
 import Card from "./Card";
 
 import i3 from "../assets/rooms/room1.webp";
