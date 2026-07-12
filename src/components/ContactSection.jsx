@@ -45,7 +45,7 @@ function ContactSection() {
           "
           >
             Visit
-            <span className="text-amber-300 uppercase"> RADIENT INN</span>
+            <span className="text-amber-300 uppercase"> RADIANT INN</span>
           </h2>
 
           <p

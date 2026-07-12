@@ -26,7 +26,7 @@ function Navbar() {
           {/* Logo */}
           <div>
             <h1 className=" text-2xl md:text-4xl font-bold tracking-[6px] upperCase text-amber-300">
-             RADIENT INN
+             RADIANT INN
             </h1>
 
             <p className="  text-[10px] md:text-xs uppercase tracking-[8px] md:tracking-[8px] text-stone-200">

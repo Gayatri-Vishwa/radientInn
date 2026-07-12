@@ -31,7 +31,7 @@ function Footer() {
           font-bold
           text-amber-300
           ">
-            RADIENT INN
+            RADIANT INN
           </h2>
 
 
@@ -95,7 +95,7 @@ function Footer() {
 
   <p className="flex items-center gap-3">
     <FaMapMarkerAlt className="text-amber-300 text-lg" />
-    RADIENT INN Hotel & Venue
+    RADIANT INN Hotel & Venue
   </p>
 
   <p className="flex items-center gap-3">

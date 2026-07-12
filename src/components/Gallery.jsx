@@ -65,7 +65,7 @@ const navigate=useNavigate()
           ">
            Explore
             <span className="text-amber-300 uppercase">
-              {" "} Radient Inn
+              {" "} Radiant Inn
             </span>
           </h2>
 

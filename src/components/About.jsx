@@ -37,7 +37,7 @@ function About() {
           tracking-[4px]
           text-amber-300
           ">
-            About Radient Inn
+            About Radiant Inn
           </p>
 
 
@@ -48,7 +48,7 @@ function About() {
 
 
         <p className="text-stone-300 mt-6 leading-relaxed">
-  Welcome to Radient Inn, where exceptional hospitality meets modern comfort.
+  Welcome to Radiant Inn, where exceptional hospitality meets modern comfort.
   From relaxing stays and delicious dining to elegant banquet venues, we are
   dedicated to creating memorable experiences for every guest. Whether you're
   visiting for business, leisure, or a special celebration, our team is
