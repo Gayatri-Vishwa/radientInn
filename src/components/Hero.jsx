@@ -83,7 +83,7 @@ function Hero() {
   <div className="relative z-10 flex flex-col items-center justify-center min-h-screen text-center px-4">
     <div className="text-white px-4 py-20">
       <p className="uppercase tracking-[3px] md:tracking-[6px] text-amber-300 mb-6 pt-8">
-        Welcome to Radient Inn
+        Welcome to Radiant Inn
       </p>
 
       <h1 className="text-4xl md:text-6xl font-bold leading-tight">
